@@ -1,10 +1,19 @@
 ---
 layout: post
-title:  "Un message de martial"
+title:  "Travaux"
 date:   2017-10-20 12:37:00 +0200
-categories: test
+categories: test video
+video_0: "breBdHR_iWc"
+video_1: "-xSaD4pJZqg"
 ---
-Martial voulait vous passer un message, c'est fait!
-Et on boit un canon à la santé de Martial pour fêter ca^^
+## Les travaux à la Forge
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-xSaD4pJZqg" frameborder="0" allowfullscreen></iframe>
+# Ligaturage
+
+{% include youtube-player.html id=page.video_1 %}
+
+>
+
+# Coulage de la dalle
+
+{% include youtube-player.html id=page.video_0 %}
